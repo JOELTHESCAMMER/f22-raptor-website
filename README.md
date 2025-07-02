@@ -30,11 +30,12 @@
       padding: 20px 30px;
       border-radius: 12px;
       box-shadow: 0 0 15px rgba(0,0,0,0.5);
+      white-space: pre-line; /* preserves line breaks */
     }
     p {
       line-height: 1.6;
       font-size: 1.1rem;
-      white-space: pre-line; /* to preserve line breaks */
+      margin: 0;
     }
     img {
       margin-top: 30px;
