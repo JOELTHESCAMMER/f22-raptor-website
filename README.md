@@ -7,7 +7,7 @@
     body {
       margin: 0;
       font-family: Arial, sans-serif;
-      background: linear-gradient(to bottom, #001f4d, #66ccff);
+      background-color: #001f3f; /* Navy blue */
       color: white;
       display: flex;
       flex-direction: column;
